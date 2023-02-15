@@ -1,0 +1,1 @@
+import {} from '@/' // trigger completion here. after '@/'
